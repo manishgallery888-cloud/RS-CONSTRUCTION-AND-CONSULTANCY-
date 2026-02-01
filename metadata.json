@@ -1,0 +1,7 @@
+{
+  "name": "Copy of RS Construction & Consultancy",
+  "description": "A premium platform for modern construction services and architectural consultancy, featuring an AI-driven project assistant.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

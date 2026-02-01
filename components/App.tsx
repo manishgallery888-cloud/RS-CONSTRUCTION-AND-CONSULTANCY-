@@ -1,0 +1,1 @@
+// This file is removed to avoid conflict with the root App.tsx
